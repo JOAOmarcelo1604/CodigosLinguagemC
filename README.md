@@ -1,8 +1,11 @@
 # CodigosLinguagemC
 Resoluçoes de problemas em Linguagem C!
+
+
+
+
 1)
 #include <stdio.h>
-
 int main() {
     int INDICE = 13, SOMA = 0, K = 0;
 
@@ -17,7 +20,6 @@ int main() {
 
 2)
 #include <stdio.h>
-
 int main() {
     int num, a = 0, b = 1, c = 0, pertence = 0;
     printf("Digite um numero inteiro: ");
@@ -44,7 +46,6 @@ int main() {
 
 3)
 #include <stdio.h>
-
 #define TAMANHO_VETOR 31
 
 int main() {
@@ -84,8 +85,8 @@ int main() {
     return 0;
 }
 
-4)#include <stdio.h>
-
+4)
+#include <stdio.h>
 int main() {
     float sp = 67.83643;
     float rj = 36.67866;
