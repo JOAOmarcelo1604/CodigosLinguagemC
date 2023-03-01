@@ -1,2 +1,2 @@
 # CodigosLinguagemC
-Esses sao meus codigos em linguagem c
+Codigos em linguagem C
