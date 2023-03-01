@@ -1,2 +1,2 @@
 # CodigosLinguagemC
-Codigos em linguagem C
+Resoluçoes de problemas em Linguagem C!
